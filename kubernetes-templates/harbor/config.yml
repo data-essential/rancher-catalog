@@ -1,0 +1,4 @@
+name: "VMWare Harbor"
+description: "Project Harbor is an enterprise-class registry server that stores and distributes Docker images."
+version: "1.2.0"
+category: "Registry"
